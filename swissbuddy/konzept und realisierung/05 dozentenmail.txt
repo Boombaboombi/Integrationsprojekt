@@ -1,0 +1,24 @@
+Betreff: SwissBuddy – Projektabgabe Integrationsprojekt
+
+Hallo Frank, hallo Thomas
+
+hiermit reiche ich meinen MVP **SwissBuddy** ein. Die Web‑App richtet sich an Thai‑Neuzuzügerinnen
+in der Schweiz und bietet einen leichtgewichtigen Einstieg in Alltagssprache, ÖV‑Tipps und
+Währungsumrechnung.
+
+Umfang (MVP)
+– fünf UI‑Sprachen (DE/TH/IT/EN/FR) und Dark‑Mode
+– Vokabelliste (51) mit Suche und Aussprache‑Button
+– Quiz mit 5/10/20/Alle und Ergebnisanzeige
+– ÖV‑Tipps (Basisumfang)
+– Währungsrechner für THB/CHF/EUR mit Live‑Berechnung und Swap
+– aktuell lokal gehostet
+
+Herausforderungen
+Zeitliche Einschränkungen im privaten Umfeld, Qualität der TTS‑Stimme, begrenzter ÖV‑Inhalt.
+
+Nächste Schritte
+Deployment unter swissbuddy.ch (HTTPS), Ausbau ÖV‑Guides, echte Audio‑Clips.
+
+Freundliche Grüsse
+Frédéric Hofer
